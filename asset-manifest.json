@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/battery-calculator-web/static/css/main.3a863688.chunk.css",
+    "main.js": "/battery-calculator-web/static/js/main.d3878b44.chunk.js",
+    "main.js.map": "/battery-calculator-web/static/js/main.d3878b44.chunk.js.map",
+    "runtime-main.js": "/battery-calculator-web/static/js/runtime-main.4540350a.js",
+    "runtime-main.js.map": "/battery-calculator-web/static/js/runtime-main.4540350a.js.map",
+    "static/js/2.d2ae912d.chunk.js": "/battery-calculator-web/static/js/2.d2ae912d.chunk.js",
+    "static/js/2.d2ae912d.chunk.js.map": "/battery-calculator-web/static/js/2.d2ae912d.chunk.js.map",
+    "index.html": "/battery-calculator-web/index.html",
+    "precache-manifest.d4a9433d28b2b9206b67625b67314e20.js": "/battery-calculator-web/precache-manifest.d4a9433d28b2b9206b67625b67314e20.js",
+    "service-worker.js": "/battery-calculator-web/service-worker.js",
+    "static/css/main.3a863688.chunk.css.map": "/battery-calculator-web/static/css/main.3a863688.chunk.css.map",
+    "static/js/2.d2ae912d.chunk.js.LICENSE": "/battery-calculator-web/static/js/2.d2ae912d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4540350a.js",
+    "static/js/2.d2ae912d.chunk.js",
+    "static/css/main.3a863688.chunk.css",
+    "static/js/main.d3878b44.chunk.js"
+  ]
+}
