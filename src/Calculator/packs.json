@@ -1,0 +1,165 @@
+{
+  "packs": [
+    {
+      "id": 0,
+      "name": "Pack96s86p - Model S/X",
+      "module_count": 16,
+      "module_in_series": 6,
+      "module_in_parallel": 86
+    },
+    {
+      "id": 1,
+      "name": "Pack96s74p - Model S/X",
+      "module_count": 16,
+      "module_in_series": 6,
+      "module_in_parallel": 74
+    },
+    {
+      "id": 2,
+      "name": "Pack96s63p",
+      "module_count": 16,
+      "module_in_series": 6,
+      "module_in_parallel": 63
+    },
+    {
+      "id": 3,
+      "name": "Pack6s63p - Model S/X single module",
+      "module_count": 1,
+      "module_in_series": 6,
+      "module_in_parallel": 63
+    },
+    {
+      "id": 21,
+      "name": "Pack96s86p - p100D",
+      "module_count": 16,
+      "module_in_series": 6,
+      "module_in_parallel": 86
+    },
+    {
+      "id": 22,
+      "name": "Pack6s86p - p100D single module",
+      "module_count": 1,
+      "module_in_series": 6,
+      "module_in_parallel": 86
+    },
+    {
+      "id": 4,
+      "name": "vruzend-battery-kit-v2-0",
+      "module_count": 1,
+      "module_in_series": 3,
+      "module_in_parallel": 10
+    },
+    {
+      "id": 15,
+      "name": "DIY electrinc motorcycyle 72v - 20s12p",
+      "module_count": 2,
+      "module_in_series": 10,
+      "module_in_parallel": 12
+    },
+    {
+      "id": 16,
+      "name": "DIY electrinc motorcycyle 72v - 20s16p",
+      "module_count": 2,
+      "module_in_series": 10,
+      "module_in_parallel": 16
+    },
+    {
+      "id": 17,
+      "name": "DIY electrinc motorcycyle 72v - 20s6p",
+      "module_count": 2,
+      "module_in_series": 10,
+      "module_in_parallel": 6
+    },
+    {
+      "id": 18,
+      "name": "DIY electrinc motorcycyle 72v - 20s6p",
+      "module_count": 4,
+      "module_in_series": 5,
+      "module_in_parallel": 6
+    },
+    {
+      "id": 19,
+      "name": "DIY electrinc motorcycyle 72v - 20s6p",
+      "module_count": 1,
+      "module_in_series": 20,
+      "module_in_parallel": 6
+    },
+    {
+      "id": 20,
+      "name": "DIY electrinc motorcycyle 72v - 5s6p",
+      "module_count": 1,
+      "module_in_series": 5,
+      "module_in_parallel": 6
+    },
+    {
+      "id": 5,
+      "name": "DIY electrinc motorcycyle 72v - 20s12p",
+      "module_count": 1,
+      "module_in_series": 20,
+      "module_in_parallel": 12
+    },
+    {
+      "id": 6,
+      "name": "DIY electrinc motorcycyle 72v 1 - 20s7p",
+      "module_count": 1,
+      "module_in_series": 20,
+      "module_in_parallel": 7
+    },
+    {
+      "id": 7,
+      "name": "DIY electrinc motorcycyle 72v 2 - 20s5p",
+      "module_count": 1,
+      "module_in_series": 20,
+      "module_in_parallel": 5
+    },
+    {
+      "id": 8,
+      "name": "48v - 13s8p",
+      "module_count": 1,
+      "module_in_series": 13,
+      "module_in_parallel": 8
+    },
+    {
+      "id": 9,
+      "name": "Homemade Jackery Explorer - 110v - 30s2p",
+      "module_count": 3,
+      "module_in_series": 10,
+      "module_in_parallel": 2
+    },
+    {
+      "id": 10,
+      "name": "Homemade Jackery Explorer - 12v - 4s15p",
+      "module_count": 1,
+      "module_in_series": 4,
+      "module_in_parallel": 15
+    },
+    {
+      "id": 11,
+      "name": "Laptop Battery - 12v - 4s2p",
+      "module_count": 1,
+      "module_in_series": 4,
+      "module_in_parallel": 2
+    },
+    {
+      "id": 12,
+      "name": "72v - 20s20p",
+      "module_count": 5,
+      "module_in_series": 4,
+      "module_in_parallel": 20
+    },
+    {
+      "id": 13,
+      "name": "72v - 20s20p",
+      "module_count": 2,
+      "module_in_series": 10,
+      "module_in_parallel": 20
+    },
+    {
+      "id": 14,
+      "name": "72v - 20s20p",
+      "module_count": 1,
+      "module_in_series": 20,
+      "module_in_parallel": 20
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "cell_types": [
+    {
+      "capacity": 3.4,
+      "vnom": 3.6,
+      "weight": 0.0475,
+      "price": 4.25,
+      "amps": 4.9,
+      "quantity": 100,
+      "source": "www.18650batterystore.com",
+      "name": "Panasonic NCR18650B 3400mAh 4.9A Battery"
+    },
+    {
+      "capacity": 3.18,
+      "vnom": 3.6,
+      "weight": 0.0469,
+      "price": 4.25,
+      "amps": 10,
+      "quantity": 100,
+      "source": "www.18650batterystore.com",
+      "name": "Panasonic NCR18650BD 3180mAh 10A Battery"
+    },
+    {
+      "capacity": 2.9,
+      "vnom": 3.6,
+      "weight": 0.0465,
+      "price": 3.2,
+      "amps": 10,
+      "quantity": 100,
+      "source": "www.18650batterystore.com",
+      "name": "Panasonic NCR18650PF 2900mAh 10A Battery"
+    },
+
+    {
+      "capacity": 3.6,
+      "vnom": 3.6,
+      "weight": 0.05,
+      "price": 5.5,
+      "amps": 10,
+      "quantity": 100,
+      "source": "www.18650batterystore.com",
+      "name": "Samsung 36G 18650 3600mAh 10A Battery"
+    },
+    {
+      "capacity": 3.5,
+      "vnom": 3.6,
+      "weight": 0.05,
+      "price": 3.65,
+      "amps": 8,
+      "quantity": 100,
+      "source": "www.18650batterystore.com",
+      "name": "Samsung 35E 18650 3500mAh 8A Battery"
+    },
+    {
+      "capacity": 2.5,
+      "vnom": 3.6,
+      "weight": 0.0438,
+      "price": 2.9,
+      "amps": 20,
+      "quantity": 100,
+      "source": "www.18650batterystore.com",
+      "name": "Samsung 25R 18650 2500mAh 20A Battery"
+    },
+
+    {
+      "capacity": 3.5,
+      "vnom": 3.635,
+      "weight": 0.049,
+      "price": 6,
+      "amps": 10,
+      "quantity": 2,
+      "source": "vruzend.com",
+      "name": "Brand"
+    },
+
+    {
+      "capacity": 2.6,
+      "vnom": 3.6,
+      "weight": 0.05,
+      "price": 1.5,
+      "amps": 5,
+      "quantity": 100,
+      "source": "batteryhookup.com",
+      "name": "LG 18650 2600MAH LGABB41865"
+    },
+    {
+      "capacity": 2.6,
+      "vnom": 3.7,
+      "weight": 0.05,
+      "price": 1.5,
+      "amps": 3.75,
+      "quantity": 100,
+      "source": "batteryhookup.com",
+      "name": "LG 18650 2600MAH LGDBB31865"
+    }
+  ]
+}
